@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chan-Wei Hu</title>
-    <link>https://huchanwei123.github.io/</link>
-      <atom:link href="https://huchanwei123.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chan-Wei Hu</description>
+    <title>Min Sun | Chan-Wei Hu</title>
+    <link>https://huchanwei123.github.io/authors/min-sun/</link>
+      <atom:link href="https://huchanwei123.github.io/authors/min-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min Sun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huchanwei123.github.io/img/icon-192.png</url>
-      <title>Chan-Wei Hu</title>
-      <link>https://huchanwei123.github.io/</link>
+      <title>Min Sun</title>
+      <link>https://huchanwei123.github.io/authors/min-sun/</link>
     </image>
     
     <item>
