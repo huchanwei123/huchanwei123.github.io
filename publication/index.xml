@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anticipating Daily Intention using On-Wrist Motion Triggered Sensing | Chan-Wei Hu</title>
+    <title>Publication | Chan-Wei Hu</title>
     <link>https://huchanwei123.github.io/publication/</link>
       <atom:link href="https://huchanwei123.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Anticipating Daily Intention using On-Wrist Motion Triggered Sensing</description>
+    <description>Publication</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://huchanwei123.github.io/img/static/img/ICCV2017.png</url>
-      <title>Anticipating Daily Intention using On-Wrist Motion Triggered Sensing</title>
+      <title>Publication</title>
       <link>https://huchanwei123.github.io/publication/</link>
     </image>
     
