@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hung-Jui Huang | Chan-Wei Hu</title>
+    <link>https://huchanwei123.github.io/authors/hung-jui-huang/</link>
+      <atom:link href="https://huchanwei123.github.io/authors/hung-jui-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hung-Jui Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://huchanwei123.github.io/img/icon-192.png</url>
+      <title>Hung-Jui Huang</title>
+      <link>https://huchanwei123.github.io/authors/hung-jui-huang/</link>
+    </image>
+    
+    <item>
+      <title>Omnidirectional CNN for Visual Place Recognition and Navigation</title>
+      <link>https://huchanwei123.github.io/publication/icra2018/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/publication/icra2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
