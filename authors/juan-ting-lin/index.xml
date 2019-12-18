@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Chan-Wei Hu</title>
-    <link>https://huchanwei123.github.io/tags/source-themes/</link>
-      <atom:link href="https://huchanwei123.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Source Themes</description>
+    <title>Juan-Ting Lin | Chan-Wei Hu</title>
+    <link>https://huchanwei123.github.io/authors/juan-ting-lin/</link>
+      <atom:link href="https://huchanwei123.github.io/authors/juan-ting-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan-Ting Lin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huchanwei123.github.io/img/icon-192.png</url>
-      <title>Source Themes</title>
-      <link>https://huchanwei123.github.io/tags/source-themes/</link>
+      <title>Juan-Ting Lin</title>
+      <link>https://huchanwei123.github.io/authors/juan-ting-lin/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://huchanwei123.github.io/publication/eccv2018/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://huchanwei123.github.io/publication/eccv2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anticipating Daily Intention using On-Wrist Motion Triggered Sensing</title>
-      <link>https://huchanwei123.github.io/publication/iccv2017/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://huchanwei123.github.io/publication/iccv2017/</guid>
       <description></description>
     </item>
     

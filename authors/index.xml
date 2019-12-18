@@ -5,7 +5,7 @@
     <link>https://huchanwei123.github.io/authors/</link>
       <atom:link href="https://huchanwei123.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huchanwei123.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
-      <title>__Chan-Wei Hu__</title>
-      <link>https://huchanwei123.github.io/authors/__chan-wei-hu__/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://huchanwei123.github.io/authors/__chan-wei-hu__/</guid>
+      <title>___Chan-Wei Hu___</title>
+      <link>https://huchanwei123.github.io/authors/___chan-wei-hu___/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/___chan-wei-hu___/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Carlos Niebles</title>
+      <link>https://huchanwei123.github.io/authors/juan-carlos-niebles/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/juan-carlos-niebles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan-Ting Lin</title>
+      <link>https://huchanwei123.github.io/authors/juan-ting-lin/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/juan-ting-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Min Sun</title>
+      <link>https://huchanwei123.github.io/authors/min-sun/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/min-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsun-Hsuang Wang</title>
+      <link>https://huchanwei123.github.io/authors/tsun-hsuang-wang/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/tsun-hsuang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tz-Ying Wu</title>
+      <link>https://huchanwei123.github.io/authors/tz-ying-wu/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/tz-ying-wu/</guid>
       <description></description>
     </item>
     
@@ -29,26 +69,10 @@
     </item>
     
     <item>
-      <title>Min Sun</title>
-      <link>https://huchanwei123.github.io/authors/min-sun/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://huchanwei123.github.io/authors/min-sun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ting-An Chien</title>
       <link>https://huchanwei123.github.io/authors/ting-an-chien/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://huchanwei123.github.io/authors/ting-an-chien/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tz-Ying Wu</title>
-      <link>https://huchanwei123.github.io/authors/tz-ying-wu/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://huchanwei123.github.io/authors/tz-ying-wu/</guid>
       <description></description>
     </item>
     
