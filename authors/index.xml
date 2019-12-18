@@ -5,7 +5,7 @@
     <link>https://huchanwei123.github.io/authors/</link>
       <atom:link href="https://huchanwei123.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huchanwei123.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,17 @@
     </image>
     
     <item>
-      <title></title>
-      <link>https://huchanwei123.github.io/authors/admin/</link>
-      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://huchanwei123.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Chan-Wei Hu is currently a M.Sc. student at &lt;a href=&#34;http://140.114.28.178/&#34;&gt;MultiObjective Control and Reinforcement Learning Lab&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.ee.nthu.edu.tw/wychiu/&#34;&gt;Prof. Wei-Yu Chiu&lt;/a&gt;. His research interests include machine learning, computer vision, and robotics. Previously, he worked with &lt;a href=&#34;https://aliensunmin.github.io/&#34;&gt;Prof. Min Sun&lt;/a&gt; at Vision Science Lab, with focus on human intent anticipation and mobile robot navigation.&lt;/p&gt;
-</description>
+      <title>__admin__</title>
+      <link>https://huchanwei123.github.io/authors/__admin__/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/__admin__/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Cheng-Sheng Chan</title>
       <link>https://huchanwei123.github.io/authors/cheng-sheng-chan/</link>
-      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://huchanwei123.github.io/authors/cheng-sheng-chan/</guid>
       <description></description>
     </item>
@@ -32,7 +31,7 @@
     <item>
       <title>Min Sun</title>
       <link>https://huchanwei123.github.io/authors/min-sun/</link>
-      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://huchanwei123.github.io/authors/min-sun/</guid>
       <description></description>
     </item>
@@ -40,7 +39,7 @@
     <item>
       <title>Ting-An Chien</title>
       <link>https://huchanwei123.github.io/authors/ting-an-chien/</link>
-      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://huchanwei123.github.io/authors/ting-an-chien/</guid>
       <description></description>
     </item>
@@ -48,9 +47,18 @@
     <item>
       <title>Tz-Ying Wu</title>
       <link>https://huchanwei123.github.io/authors/tz-ying-wu/</link>
-      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://huchanwei123.github.io/authors/tz-ying-wu/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://huchanwei123.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huchanwei123.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Chan-Wei Hu is currently a M.Sc. student at &lt;a href=&#34;http://140.114.28.178/&#34;&gt;MultiObjective Control and Reinforcement Learning Lab&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.ee.nthu.edu.tw/wychiu/&#34;&gt;Prof. Wei-Yu Chiu&lt;/a&gt;. His research interests include machine learning, computer vision, and robotics. Previously, he worked with &lt;a href=&#34;https://aliensunmin.github.io/&#34;&gt;Prof. Min Sun&lt;/a&gt; at Vision Science Lab, with focus on human intent anticipation and mobile robot navigation.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
