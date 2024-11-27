@@ -19,5 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to my page! My name is Chan-Wei Hu (胡展維), I am currently a Ph.D student in [TACO group](https://taco-group.github.io/) at Texas A&M University, supervised by [Dr. Zhengzhong Tu](https://vztu.github.io/). 
+
 My research interests broadly lie in computer vision, natural language processing and machine learning. 
+
 Specifically, I am interested in multimodal LLMs with its applications on autonomous driving and robotics, such as visual-language model and its reasoning abilities across multiple frames.
